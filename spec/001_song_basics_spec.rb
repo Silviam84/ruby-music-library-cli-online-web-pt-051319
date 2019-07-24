@@ -73,9 +73,11 @@ describe "Song" do
       
     end
     
-    Class variable
+    Song.new("Blank Space").name #=> "
+     Blank Space"
   
-    @@all = []
+       @@all = []
+       
         end
     
     
