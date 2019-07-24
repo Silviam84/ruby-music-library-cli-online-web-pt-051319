@@ -73,9 +73,9 @@ describe "Song" do
       
     end
     
-    puts Song.new ("Blank Space").name #=> "Blank Space"
-    
-          @@all[]
+    Class Song
+    attr_accessor :name
+    @@all = []
         end
     
     
