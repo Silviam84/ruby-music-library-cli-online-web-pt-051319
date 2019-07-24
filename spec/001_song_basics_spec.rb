@@ -73,8 +73,8 @@ describe "Song" do
       
     end
     
-    Class Song
-    attr_accessor :name
+    Class variable
+  
     @@all = []
         end
     
